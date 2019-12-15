@@ -27,6 +27,9 @@ dependencies:
   - pyviz::geoviews>1.6.2
   - conda-forge::xarray=0.14
   - pyviz::datashader
+  - pyviz::param
+  - pyviz::panel
+  - bokeh::bokeh
   - rasterio
   - rasterstats
   - earthpy
@@ -50,6 +53,8 @@ dependencies:
   - osmnx
   - networkx
   - scikit-learn
+  - flask
+  - dash
   - pip:
       - us
       - tweepy
@@ -62,4 +67,3 @@ dependencies:
       - missingno
       - osm2gpd
       - jupyter-panel-proxy
-
