@@ -60,3 +60,6 @@ dependencies:
       - rio-toa
       - rioxarray
       - missingno
+      - osm2gpd
+      - jupyter-panel-proxy
+
