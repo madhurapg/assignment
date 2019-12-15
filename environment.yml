@@ -29,7 +29,6 @@ dependencies:
   - pyviz::datashader
   - pyviz::param
   - pyviz::panel
-  - bokeh::bokeh
   - rasterio
   - rasterstats
   - earthpy
